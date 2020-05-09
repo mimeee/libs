@@ -1,19 +1,17 @@
 {
-  "name": "m-jslib",
-  "version": "1.0.15",
+  "name": "jslib",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://gitlab.ihuayue.cn/hyfe/m-jsLib.git"
+    "url": "git@github.com:mimeee/libs.git"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@huayue/js-bridge": "^1.0.93",
-    "express": "^4.17.1",
-    "hy-libs": "^0.7.25"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
