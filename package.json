@@ -1,12 +1,12 @@
 {
-  "name": "jslib",
+  "name": "@zhangxunying/jslib",
   "version": "1.0.0",
-  "description": "",
+  "description": "- ### 通用",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:mimeee/libs.git"
+    "url": "git+ssh://git@github.com/mimeee/libs.git"
   },
   "author": "",
   "license": "ISC",
@@ -24,5 +24,10 @@
     "pump": "^3.0.0",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/mimeee/libs/issues"
+  },
+  "homepage": "https://github.com/mimeee/libs#readme",
+  "keywords": []
 }

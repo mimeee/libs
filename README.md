@@ -1,5 +1,9 @@
 # M项目 javascript 公共库
 
+- #### 安装
+
+  - `npm i @zhangxunying/jslib`
+
 - ### 通用
 
   - isType
